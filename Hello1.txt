@@ -1,2 +1,2 @@
-new file
-added by jayakrishna
+This file is completely modified by krishnalinux
+all the changes made by jayakrishna is removed 
