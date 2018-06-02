@@ -1,2 +1,2 @@
-hello everyone
-hey guru
+Hey this file is modified by krishnalinux
+please clear the conflict and push
